@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div
-      className="w-[101%] h-[101vh] flex justify-center items-center relative overflow-hidden"
+      className="w-full h-screen flex justify-center items-center relative overflow-hidden"
       style={{
         background: "linear-gradient(to bottom, #031F36, #0A599C)",
       }}
